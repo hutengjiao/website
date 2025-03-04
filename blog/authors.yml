@@ -1,3 +1,12 @@
+laker_tj:
+  name: laker_tj
+  title: Front End Engineer
+  url: https://github.com/hutengjiao
+  image_url: https://github.com/hutengjiao.png
+  page: true
+  socials:
+    github: hutengjiao
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook

@@ -1,0 +1,20 @@
+---
+sidebar_position: 1
+---
+
+# Button 组件
+
+这是一个简单的按钮组件，支持自定义内容和点击事件。
+
+## 实时演示
+
+```jsx live
+function Demo() {
+  const [count, setCount] = React.useState(0)
+  return (
+    <div>
+      <button onClick={() => setCount(count + 1)}>点击次数: {count}</button>
+    </div>
+  )
+}
+```

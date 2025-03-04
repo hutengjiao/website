@@ -1,7 +1,7 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+note:
+  label: Note
+  permalink: /note
+  description: note tag description
 
 hello:
   label: Hello
